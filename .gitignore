@@ -2,3 +2,6 @@
 *.xccheckout
 *.xcscmblueprint
 xcuserdata
+
+# Build products
+bin
