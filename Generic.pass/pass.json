@@ -20,7 +20,7 @@
     "format" : "PKBarcodeFormatPDF417",
     "messageEncoding" : "iso-8859-1"
   },
-  "organizationName" : "Toy Town",
+  "organizationName" : "Log Dash G",
   "description" : "Toy Town Membership",
   "logoText" : "Toy Town",
   "foregroundColor" : "rgb(255, 255, 255)",
