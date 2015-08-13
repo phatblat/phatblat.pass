@@ -34,9 +34,9 @@
     ],
     "secondaryFields" : [
       {
-        "key" : "nickname",
-        "label" : "AKA",
-        "value" : "phatblat"
+        "key" : "twitter",
+        "label" : "TWITTER",
+        "value" : "@phatblat"
       }
     ],
     "auxiliaryFields" : [
@@ -54,10 +54,9 @@
     ],
     "backFields" : [
       {
-        "numberStyle" : "PKNumberStyleSpellOut",
-        "label" : "spelled out",
-        "key" : "numberStyle",
-        "value" : 200
+        "label" : "twitter",
+        "key" : "twitter",
+        "value" : "<a href='https://twitter.com/phatblat'>@phatblat</a>"
       },
       {
         "label" : "in Reals",
