@@ -200,8 +200,11 @@
 		7218F2E51575996900726771 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "signpass/signpass-Prefix.pch";
+				INSTALL_PATH = "$(SRCROOT)/bin";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -209,8 +212,11 @@
 		7218F2E61575996900726771 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "signpass/signpass-Prefix.pch";
+				INSTALL_PATH = "$(SRCROOT)/bin";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
