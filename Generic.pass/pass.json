@@ -1,10 +1,10 @@
 {
   "formatVersion" : 1,
-  "passTypeIdentifier" : "pass.com.apple.devpubs.example",
+  "passTypeIdentifier" : "pass.com.phatblat.BenChatelain",
   "serialNumber" : "8j23fm3",
   "webServiceURL" : "https://example.com/passes/",
   "authenticationToken" : "vxwxd7J8AlNNFPS8k0a0FfUFtq0ewzFdc",
-  "teamIdentifier" : "A93A5CM278",
+  "teamIdentifier" : "MTGSZH8QM4",
   "locations" : [
     {
       "longitude" : -122.3748889,
