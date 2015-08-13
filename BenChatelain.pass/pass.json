@@ -59,36 +59,25 @@
         "value" : "<a href='https://twitter.com/phatblat'>@phatblat</a>"
       },
       {
-        "label" : "in Reals",
-        "key" : "currency",
-        "value" : 200,
-        "currencyCode" : "BRL"
+        "label" : "email",
+        "key" : "email",
+        "value" : "<a href='mailto:ben@octop.ad'>ben@octop.ad</a>"
+      },
+      {
+        "label" : "blog",
+        "key" : "blog",
+        "value" : "<a href='http://phatblat.com'>phatblat.com</a>"
+      },
+      {
+        "label" : "github",
+        "key" : "github",
+        "value" : "<a href='https://github.com/phatblat'>github.com/phatblat</a>"
       },
       {
         "dateStyle" : "PKDateStyleFull",
-        "label" : "full date",
-        "key" : "dateFull",
-        "value" : "1980-05-07T10:00-05:00"
-      },
-      {
-        "label" : "full time",
-        "key" : "timeFull",
-        "value" : "1980-05-07T10:00-05:00",
-        "timeStyle" : "PKDateStyleFull"
-      },
-      {
-        "dateStyle" : "PKDateStyleShort",
-        "label" : "short date and time",
-        "key" : "dateTime",
-        "value" : "1980-05-07T10:00-05:00",
-        "timeStyle" : "PKDateStyleShort"
-      },
-      {
-        "dateStyle" : "PKDateStyleShort",
-        "label" : "relative date",
-        "key" : "relStyle",
-        "value" : "2013-04-24T10:00-05:00",
-        "isRelative" : true
+        "label" : "last updated",
+        "key" : "last_updated",
+        "value" : "2015-08-13T11:47-06:00"
       }
     ]
   }
