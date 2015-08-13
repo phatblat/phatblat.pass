@@ -6,7 +6,7 @@
 #
 
 cmd="signpass/bin/signpass"
-pass="Generic.pass"
+pass="BenChatelain.pass"
 
 if [ ! -f ${cmd} ]; then
     echo "${cmd} not found! Please build the xignpass.xcodeproj first, then re-run this script."
