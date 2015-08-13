@@ -22,33 +22,33 @@
   },
   "organizationName" : "Log Dash G",
   "description" : "Toy Town Membership",
-  "logoText" : "Toy Town",
+  "logoText" : "Log Dash G",
   "foregroundColor" : "rgb(255, 255, 255)",
-  "backgroundColor" : "rgb(197, 31, 31)",
+  "backgroundColor" : "rgb(66, 59, 116)",
   "generic" : {
     "primaryFields" : [
       {
-        "key" : "member",
-        "value" : "Johnny Appleseed"
+        "key" : "name",
+        "value" : "Ben Chatelain"
       }
     ],
     "secondaryFields" : [
       {
-        "key" : "subtitle",
-        "label" : "MEMBER SINCE",
-        "value" : "2012"
+        "key" : "nickname",
+        "label" : "AKA",
+        "value" : "phatblat"
       }
     ],
     "auxiliaryFields" : [
       {
-        "key" : "level",
-        "label" : "LEVEL",
-        "value" : "Platinum"
+        "key" : "email",
+        "label" : "EMAIL",
+        "value" : "ben@octop.ad"
       },
       {
-        "key" : "favorite",
-        "label" : "FAVORITE TOY",
-        "value" : "Bucky Ball Magnets",
+        "key" : "website",
+        "label" : "BLOG",
+        "value" : "http://phatblat.com",
         "textAlignment" : "PKTextAlignmentRight"
       }
     ],
