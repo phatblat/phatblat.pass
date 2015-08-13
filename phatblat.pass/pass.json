@@ -16,7 +16,7 @@
     }
   ],
   "barcode" : {
-    "message" : "123456789",
+    "message" : "https://phatblat.com/phatblat.pkpass",
     "format" : "PKBarcodeFormatPDF417",
     "messageEncoding" : "iso-8859-1"
   },
