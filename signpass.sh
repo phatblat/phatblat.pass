@@ -2,11 +2,11 @@
 
 #
 # signpass.sh
-# Signs .pass bundle
+# Signs a .pass bundle
 #
 
 cmd="signpass/bin/signpass"
-pass="BenChatelain.pass"
+pass="phatblat.pass"
 
 if [ ! -f ${cmd} ]; then
     echo "${cmd} not found! Please build the xignpass.xcodeproj first, then re-run this script."
