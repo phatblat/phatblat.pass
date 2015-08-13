@@ -5,3 +5,4 @@ xcuserdata
 
 # Build products
 bin
+*.pkpass
