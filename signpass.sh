@@ -14,3 +14,7 @@ if [ ! -f ${cmd} ]; then
 fi
 
 "${cmd}" -p "${pass}"
+
+if [[ $? ]]; then
+  exit 1
+fi
