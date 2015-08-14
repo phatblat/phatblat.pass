@@ -5,14 +5,12 @@
   "webServiceURL" : "https://example.com/passes/",
   "authenticationToken" : "vxwxd7J8AlNNFPS8k0a0FfUFtq0ewzFdc",
   "teamIdentifier" : "MTGSZH8QM4",
-  "locations" : [
+  "beacons" : [
     {
-      "longitude" : -122.3748889,
-      "latitude" : 37.6189722
-    },
-    {
-      "longitude" : -122.03118,
-      "latitude" : 37.33182
+      "proximityUUID" : "8AEF-B031-6C32-486F-825B-E26F-A193-487D",
+      "major" : 1,
+      "minor" : 10,
+      "relevantText" : "phatblat is nearby"
     }
   ],
   "barcode" : {
