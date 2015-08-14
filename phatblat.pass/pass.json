@@ -61,17 +61,26 @@
       {
         "label" : "email",
         "key" : "email",
-        "value" : "<a href='mailto:ben@octop.ad'>ben@octop.ad</a>"
+        "value" : "ben@octop.ad",
+        "dataDetectorTypes" : [
+          "PKDataDetectorTypeLink"
+        ]
       },
       {
         "label" : "blog",
         "key" : "blog",
-        "value" : "<a href='http://phatblat.com'>phatblat.com</a>"
+        "value" : "phatblat.com",
+        "dataDetectorTypes" : [
+          "PKDataDetectorTypeLink"
+        ]
       },
       {
         "label" : "github",
         "key" : "github",
-        "value" : "<a href='https://github.com/phatblat'>github.com/phatblat</a>"
+        "value" : "github.com/phatblat",
+        "dataDetectorTypes" : [
+          "PKDataDetectorTypeLink"
+        ]
       },
       {
         "dateStyle" : "PKDateStyleFull",
