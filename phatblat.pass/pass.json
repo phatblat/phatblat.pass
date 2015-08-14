@@ -7,7 +7,7 @@
   "teamIdentifier" : "MTGSZH8QM4",
   "beacons" : [
     {
-      "proximityUUID" : "8AEF-B031-6C32-486F-825B-E26F-A193-487D",
+      "proximityUUID" : "8AEFB0316C32486F825BE26FA193487D",
       "major" : 1,
       "minor" : 10,
       "relevantText" : "phatblat is nearby"
