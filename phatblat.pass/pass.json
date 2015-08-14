@@ -17,7 +17,7 @@
   ],
   "barcode" : {
     "message" : "https://phatblat.com/phatblat.pkpass",
-    "format" : "PKBarcodeFormatPDF417",
+    "format" : "PKBarcodeFormatQR",
     "messageEncoding" : "iso-8859-1"
   },
   "organizationName" : "Log Dash G",
