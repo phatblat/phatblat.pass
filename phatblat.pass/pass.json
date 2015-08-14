@@ -18,7 +18,8 @@
   "barcode" : {
     "message" : "https://phatblat.com/phatblat.pkpass",
     "format" : "PKBarcodeFormatQR",
-    "messageEncoding" : "iso-8859-1"
+    "messageEncoding" : "iso-8859-1",
+    "altText" : "Scan to add to Passbook"
   },
   "organizationName" : "Log Dash G",
   "description" : "Toy Town Membership",
