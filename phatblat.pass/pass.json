@@ -37,6 +37,17 @@
       }
     ],
     "auxiliaryFields" : [
+      {
+        "key" : "title",
+        "label" : "TITLE",
+        "value" : "Principal iOS Engineer"
+      },
+      {
+        "key" : "employer",
+        "label" : "EMPLOYER",
+        "value" : "Kaiser Permanente",
+        "textAlignment" : "PKTextAlignmentRight"
+      }
     ],
     "backFields" : [
       {
@@ -69,10 +80,26 @@
         ]
       },
       {
-        "dateStyle" : "PKDateStyleFull",
-        "label" : "last updated",
+        "key" : "linkedin",
+        "label" : "LINKEDIN",
+        "value" : "https://www.linkedin.com/profile/view?id=AAIAAACwbAwBM-lFi0OQybposckyRPwmVo_uT88",
+        "dataDetectorTypes" : [
+          "PKDataDetectorTypeLink"
+        ]
+      },
+      {
+        "key" : "source_code",
+        "label" : "SOURCE CODE",
+        "value" : "The source code for this Passbook pass is freely available at https://github.com/phatblat/phatblat.pass",
+        "dataDetectorTypes" : [
+          "PKDataDetectorTypeLink"
+        ]
+      },
+      {
         "key" : "last_updated",
-        "value" : "2015-08-14T20:41-06:00"
+        "label" : "LAST UPDATED",
+        "value" : "2015-08-14T20:41-06:00",
+        "dateStyle" : "PKDateStyleFull"
       }
     ]
   }
