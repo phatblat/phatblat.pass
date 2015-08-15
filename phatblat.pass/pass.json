@@ -31,48 +31,37 @@
     ],
     "secondaryFields" : [
       {
-        "key" : "twitter",
+        "key" : "twitter_handle",
         "label" : "TWITTER",
         "value" : "@phatblat"
       }
     ],
     "auxiliaryFields" : [
-      {
-        "key" : "email",
-        "label" : "EMAIL",
-        "value" : "ben@octop.ad"
-      },
-      {
-        "key" : "website",
-        "label" : "BLOG",
-        "value" : "http://phatblat.com",
-        "textAlignment" : "PKTextAlignmentRight"
-      }
     ],
     "backFields" : [
       {
-        "label" : "twitter",
-        "key" : "twitter",
+        "key" : "twitter_link",
+        "label" : "TWITTER",
         "value" : "<a href='https://twitter.com/phatblat'>@phatblat</a>"
       },
       {
-        "label" : "email",
         "key" : "email",
+        "label" : "EMAIL",
         "value" : "ben@octop.ad",
         "dataDetectorTypes" : [
           "PKDataDetectorTypeLink"
         ]
       },
       {
-        "label" : "blog",
         "key" : "blog",
+        "label" : "BLOG",
         "value" : "phatblat.com",
         "dataDetectorTypes" : [
           "PKDataDetectorTypeLink"
         ]
       },
       {
-        "label" : "github",
+        "label" : "GITHUB",
         "key" : "github",
         "value" : "github.com/phatblat",
         "dataDetectorTypes" : [
