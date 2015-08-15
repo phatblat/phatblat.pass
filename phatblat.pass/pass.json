@@ -17,7 +17,7 @@
     "messageEncoding" : "iso-8859-1",
     "altText" : "Scan to add to Passbook"
   },
-  "organizationName" : "phatblat",
+  "organizationName" : "@phatblat",
   "description" : "Ben Chatelain's Passbook card",
   "logoText" : "phatblat",
   "foregroundColor" : "rgb(255, 255, 255)",
