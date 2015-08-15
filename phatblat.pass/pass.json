@@ -12,7 +12,7 @@
     }
   ],
   "barcode" : {
-    "message" : "http://phatblat.com/phatblat.pkpass",
+    "message" : "https://s3-us-west-2.amazonaws.com/phatblat/phatblat.pkpass",
     "format" : "PKBarcodeFormatQR",
     "messageEncoding" : "iso-8859-1",
     "altText" : "Scan to add to Passbook"
