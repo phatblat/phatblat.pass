@@ -88,6 +88,14 @@
         ]
       },
       {
+        "key" : "instagram",
+        "label" : "INSTAGRAM",
+        "value" : "https://www.instagram.com/phatblat/",
+        "dataDetectorTypes" : [
+          "PKDataDetectorTypeLink"
+        ]
+      },
+      {
         "key" : "source_code",
         "label" : "SOURCE CODE",
         "value" : "The source code for this Passbook pass is freely available at https://github.com/phatblat/phatblat.pass",
