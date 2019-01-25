@@ -82,7 +82,7 @@
       {
         "key" : "linkedin",
         "label" : "LINKEDIN",
-        "value" : "https://www.linkedin.com/profile/view?id=AAIAAACwbAwBM-lFi0OQybposckyRPwmVo_uT88",
+        "value" : "https://www.linkedin.com/in/benchatelain/",
         "dataDetectorTypes" : [
           "PKDataDetectorTypeLink"
         ]
