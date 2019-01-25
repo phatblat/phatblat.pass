@@ -15,10 +15,10 @@
     "message" : "https://s3-us-west-2.amazonaws.com/phatblat/phatblat.pkpass",
     "format" : "PKBarcodeFormatQR",
     "messageEncoding" : "iso-8859-1",
-    "altText" : "Scan to add to Passbook"
+    "altText" : "Scan to add to Apple Wallet"
   },
   "organizationName" : "@phatblat",
-  "description" : "Ben Chatelain's Passbook card",
+  "description" : "Ben Chatelain's Business Card",
   "logoText" : "phatblat",
   "foregroundColor" : "rgb(255, 255, 255)",
   "backgroundColor" : "rgb(66, 59, 116)",
