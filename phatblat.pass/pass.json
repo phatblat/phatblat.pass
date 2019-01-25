@@ -65,15 +65,15 @@
       },
       {
         "key" : "blog",
-        "label" : "BLOG",
-        "value" : "phatblat.com",
+        "label" : "REFLOG",
+        "value" : "phatbl.at",
         "dataDetectorTypes" : [
           "PKDataDetectorTypeLink"
         ]
       },
       {
-        "label" : "GITHUB",
         "key" : "github",
+        "label" : "GITHUB",
         "value" : "github.com/phatblat",
         "dataDetectorTypes" : [
           "PKDataDetectorTypeLink"
