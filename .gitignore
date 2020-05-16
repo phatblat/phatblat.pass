@@ -1,8 +1,7 @@
-.DS_Store
+*.pkpass
 *.xccheckout
 *.xcscmblueprint
-xcuserdata
-
-# Build products
+.DS_Store
 bin
-*.pkpass
+build/
+xcuserdata
