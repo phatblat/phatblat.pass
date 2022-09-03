@@ -15,11 +15,11 @@
     "message": "https://s3-us-west-2.amazonaws.com/phatblat/phatblat.pkpass",
     "format": "PKBarcodeFormatQR",
     "messageEncoding": "iso-8859-1",
-    "altText": "Scan to add to Apple Wallet"
+    "altText": "Add to Apple Wallet"
   },
   "organizationName": "@phatblat",
-  "description": "Ben Chatelain's Business Card",
   "logoText": "phatblat",
+  "description": "Ben Chatelain's iCard",
   "foregroundColor": "rgb(255, 255, 255)",
   "backgroundColor": "rgb(66, 59, 116)",
   "generic": {
@@ -31,52 +31,46 @@
     ],
     "secondaryFields": [
       {
-        "key": "twitter_handle",
-        "label": "TWITTER",
-        "value": "<a href='https://twitter.com/phatblat'>@phatblat</a>"
+        "key": "email",
+        "label": "EMAIL",
+        "value": "ben@ditto.live"
       },
       {
-        "key": "blog_link",
-        "label": "WEB",
-        "value": "phatbl.at",
-        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
+        "key": "twitter_handle",
+        "label": "SOCIALS",
+        "value": "@phatblat",
+        "textAlignment": "PKTextAlignmentRight"
       }
     ],
     "auxiliaryFields": [
       {
         "key": "title",
         "label": "TITLE",
-        "value": "Chief iOS Engineer"
+        "value": "Senior Product Engineer"
       },
       {
         "key": "employer",
         "label": "EMPLOYER",
-        "value": "Kaiser Permanente",
+        "value": "Ditto",
         "textAlignment": "PKTextAlignmentRight"
       }
     ],
     "backFields": [
+      {
+        "key": "email",
+        "label": "EMAIL",
+        "value": "ben@ditto.live",
+        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
+      },
       {
         "key": "twitter_link",
         "label": "TWITTER",
         "value": "<a href='https://twitter.com/phatblat'>@phatblat</a>"
       },
       {
-        "key": "email",
-        "label": "EMAIL",
-        "value": "ben@octop.ad",
-        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
-      },
-      {
         "key": "blog",
-        "label": "WEB",
+        "label": "BLOG",
         "value": "phatbl.at",
-        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
-      },
-      {
-        "key": "github",
-        "label": "GITHUB",
-        "value": "github.com/phatblat",
         "dataDetectorTypes": ["PKDataDetectorTypeLink"]
       },
       {
@@ -86,21 +80,33 @@
         "dataDetectorTypes": ["PKDataDetectorTypeLink"]
       },
       {
+        "key": "twitch",
+        "label": "TWITCH",
+        "value": "twitch.tv/phatblat",
+        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
+      },
+      {
         "key": "instagram",
         "label": "INSTAGRAM",
         "value": "instagram.com/phatblat",
         "dataDetectorTypes": ["PKDataDetectorTypeLink"]
       },
       {
+        "key": "github",
+        "label": "GITHUB",
+        "value": "github.com/phatblat",
+        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
+      },
+      {
         "key": "source_code",
         "label": "SOURCE CODE",
-        "value": "The source for this pass is freely available at github.com/phatblat/phatblat.pass",
+        "value": "Make your own pass from my template at github.com/phatblat/phatblat.pass",
         "dataDetectorTypes": ["PKDataDetectorTypeLink"]
       },
       {
         "key": "last_updated",
         "label": "LAST UPDATED",
-        "value": "2020-05-16T09:37-06:00",
+        "value": "2022-09-03T14:08-06:00",
         "dateStyle": "PKDateStyleFull"
       }
     ]
