@@ -1,121 +1,107 @@
 {
-  "teamIdentifier" : "MTGSZH8QM4",
-  "passTypeIdentifier" : "pass.com.phatblat.BenChatelain",
-  "formatVersion" : 1,
-  "serialNumber" : "0",
-  "beacons" : [
+  "teamIdentifier": "MTGSZH8QM4",
+  "passTypeIdentifier": "pass.com.phatblat.BenChatelain",
+  "formatVersion": 1,
+  "serialNumber": "0",
+  "beacons": [
     {
-      "proximityUUID" : "8AEFB031-6C32-486F-825B-E26FA193487D",
-      "major" : 1,
-      "minor" : 10,
-      "relevantText" : "phatblat is nearby"
+      "proximityUUID": "8AEFB031-6C32-486F-825B-E26FA193487D",
+      "major": 1,
+      "minor": 10,
+      "relevantText": "phatblat is nearby"
     }
   ],
-  "barcode" : {
-    "message" : "https://s3-us-west-2.amazonaws.com/phatblat/phatblat.pkpass",
-    "format" : "PKBarcodeFormatQR",
-    "messageEncoding" : "iso-8859-1",
-    "altText" : "Scan to add to Apple Wallet"
+  "barcode": {
+    "message": "https://s3-us-west-2.amazonaws.com/phatblat/phatblat.pkpass",
+    "format": "PKBarcodeFormatQR",
+    "messageEncoding": "iso-8859-1",
+    "altText": "Scan to add to Apple Wallet"
   },
-  "organizationName" : "@phatblat",
-  "description" : "Ben Chatelain's Business Card",
-  "logoText" : "phatblat",
-  "foregroundColor" : "rgb(255, 255, 255)",
-  "backgroundColor" : "rgb(66, 59, 116)",
-  "generic" : {
-    "primaryFields" : [
+  "organizationName": "@phatblat",
+  "description": "Ben Chatelain's Business Card",
+  "logoText": "phatblat",
+  "foregroundColor": "rgb(255, 255, 255)",
+  "backgroundColor": "rgb(66, 59, 116)",
+  "generic": {
+    "primaryFields": [
       {
-        "key" : "name",
-        "value" : "Ben Chatelain"
+        "key": "name",
+        "value": "Ben Chatelain"
       }
     ],
-    "secondaryFields" : [
+    "secondaryFields": [
       {
-        "key" : "twitter_handle",
-        "label" : "TWITTER",
-        "value" : "<a href='https://twitter.com/phatblat'>@phatblat</a>"
+        "key": "twitter_handle",
+        "label": "TWITTER",
+        "value": "<a href='https://twitter.com/phatblat'>@phatblat</a>"
       },
       {
-        "key" : "blog_link",
-        "label" : "WEB",
-        "value" : "phatbl.at",
-        "dataDetectorTypes" : [
-          "PKDataDetectorTypeLink"
-        ]
+        "key": "blog_link",
+        "label": "WEB",
+        "value": "phatbl.at",
+        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
       }
     ],
-    "auxiliaryFields" : [
+    "auxiliaryFields": [
       {
-        "key" : "title",
-        "label" : "TITLE",
-        "value" : "Chief iOS Engineer"
+        "key": "title",
+        "label": "TITLE",
+        "value": "Chief iOS Engineer"
       },
       {
-        "key" : "employer",
-        "label" : "EMPLOYER",
-        "value" : "Kaiser Permanente",
-        "textAlignment" : "PKTextAlignmentRight"
+        "key": "employer",
+        "label": "EMPLOYER",
+        "value": "Kaiser Permanente",
+        "textAlignment": "PKTextAlignmentRight"
       }
     ],
-    "backFields" : [
+    "backFields": [
       {
-        "key" : "twitter_link",
-        "label" : "TWITTER",
-        "value" : "<a href='https://twitter.com/phatblat'>@phatblat</a>"
+        "key": "twitter_link",
+        "label": "TWITTER",
+        "value": "<a href='https://twitter.com/phatblat'>@phatblat</a>"
       },
       {
-        "key" : "email",
-        "label" : "EMAIL",
-        "value" : "ben@octop.ad",
-        "dataDetectorTypes" : [
-          "PKDataDetectorTypeLink"
-        ]
+        "key": "email",
+        "label": "EMAIL",
+        "value": "ben@octop.ad",
+        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
       },
       {
-        "key" : "blog",
-        "label" : "WEB",
-        "value" : "phatbl.at",
-        "dataDetectorTypes" : [
-          "PKDataDetectorTypeLink"
-        ]
+        "key": "blog",
+        "label": "WEB",
+        "value": "phatbl.at",
+        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
       },
       {
-        "key" : "github",
-        "label" : "GITHUB",
-        "value" : "github.com/phatblat",
-        "dataDetectorTypes" : [
-          "PKDataDetectorTypeLink"
-        ]
+        "key": "github",
+        "label": "GITHUB",
+        "value": "github.com/phatblat",
+        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
       },
       {
-        "key" : "linkedin",
-        "label" : "LINKEDIN",
-        "value" : "linkedin.com/in/benchatelain",
-        "dataDetectorTypes" : [
-          "PKDataDetectorTypeLink"
-        ]
+        "key": "linkedin",
+        "label": "LINKEDIN",
+        "value": "linkedin.com/in/benchatelain",
+        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
       },
       {
-        "key" : "instagram",
-        "label" : "INSTAGRAM",
-        "value" : "instagram.com/phatblat",
-        "dataDetectorTypes" : [
-          "PKDataDetectorTypeLink"
-        ]
+        "key": "instagram",
+        "label": "INSTAGRAM",
+        "value": "instagram.com/phatblat",
+        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
       },
       {
-        "key" : "source_code",
-        "label" : "SOURCE CODE",
-        "value" : "The source for this pass is freely available at github.com/phatblat/phatblat.pass",
-        "dataDetectorTypes" : [
-          "PKDataDetectorTypeLink"
-        ]
+        "key": "source_code",
+        "label": "SOURCE CODE",
+        "value": "The source for this pass is freely available at github.com/phatblat/phatblat.pass",
+        "dataDetectorTypes": ["PKDataDetectorTypeLink"]
       },
       {
-        "key" : "last_updated",
-        "label" : "LAST UPDATED",
-        "value" : "2020-05-16T09:37-06:00",
-        "dateStyle" : "PKDateStyleFull"
+        "key": "last_updated",
+        "label": "LAST UPDATED",
+        "value": "2020-05-16T09:37-06:00",
+        "dateStyle": "PKDateStyleFull"
       }
     ]
   }
