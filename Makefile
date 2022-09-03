@@ -41,10 +41,6 @@ version: ## Prints tool versions
 clean: ## Cleans the project
 	rm -rf $(BIN_DIR)
 
-.PHONY: xcproj
-xcproj: ## Generates an Xcode project
-	xcodebuild -project $(XCODE_PROJECT) -list
-
 .PHONY: build
 build: ## Builds the project
 	rm -f $(PASS_PACKAGE)/.DS_Store
